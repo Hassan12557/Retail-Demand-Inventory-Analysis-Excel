@@ -1,49 +1,6 @@
- Excellent 👍
-Now we enter the **FINAL PROFESSIONAL PHASE** — this is what separates:
-
-❌ A student Excel file
-FROM
-✅ A real industry project
-
-This phase is called:
-
-# 🏭 PHASE 6 — DOCUMENTATION & PROJECT PRESENTATION (Industry Standard)
-
-In real companies:
-
-👉 Every Excel project MUST be documented
-👉 Otherwise it is considered incomplete
-
-Because:
-
-* Others must understand your work
-* Auditors may review it
-* Managers rely on documentation
-
----
-
-# 🎯 Step 1 — Create Documentation Sheet
-
-Create a new sheet named:
-
-⭐ **Documentation**
-
-This sheet acts like a **README file** inside Excel.
-
----
-
-# 🧠 Step 2 — Write Industry-Level Project Documentation
-
-Below is EXACT content you should write in your Documentation sheet.
-
-You can copy this.
-
----
-
 ## 📄 SECTION 1 — Project Overview
 
-Write:
-
+ 
 **Project Title:**
 Customer Purchase Behavior & Sales Performance Analysis Dashboard
 
@@ -54,8 +11,7 @@ The objective of this project is to analyze retail transactional data to identif
 
 ## 📄 SECTION 2 — Business Problem Statement
 
-Write:
-
+ 
 The organization handles large volumes of customer transaction data across various regions, product categories, and customer segments. However, the data is stored in raw format and lacks structured analytical reporting, making it difficult for management to monitor sales trends, customer behavior, and operational performance.
 
 This project addresses this problem by cleaning, transforming, analyzing, and visualizing the data to provide actionable insights through an interactive dashboard.
@@ -64,8 +20,7 @@ This project addresses this problem by cleaning, transforming, analyzing, and vi
 
 ## 📄 SECTION 3 — Data Source Description
 
-Write:
-
+ 
 The dataset contains transactional-level retail data, including:
 
 * Customer demographic information
@@ -80,8 +35,7 @@ Each row represents a unique customer transaction.
 
 ## 📄 SECTION 4 — Data Cleaning Process
 
-Write:
-
+ 
 The following data cleaning steps were performed using Power Query:
 
 * Removed duplicate records based on Transaction ID
@@ -96,8 +50,7 @@ The following data cleaning steps were performed using Power Query:
 
 ## 📄 SECTION 5 — Key Performance Indicators (KPIs)
 
-Write:
-
+ 
 The dashboard includes the following KPIs:
 
 * Total Revenue
@@ -113,8 +66,7 @@ The dashboard includes the following KPIs:
 
 ## 📄 SECTION 6 — Tools & Techniques Used
 
-Write:
-
+ 
 * Microsoft Excel
 * Power Query for data cleaning and transformation
 * Pivot Tables for data analysis
@@ -125,8 +77,7 @@ Write:
 
 ## 📄 SECTION 7 — Dashboard Features
 
-Write:
-
+ 
 The dashboard provides interactive insights into:
 
 * Monthly sales trends
