@@ -1,39 +1,76 @@
-# Retail-Demand-Inventory-Analysis-Excel# Retail Demand & Inventory Analysis (Excel Project)
+ Customer Purchase Behavior & Sales Performance Analysis Dashboard
 
-## 📊 Project Overview
-This project analyzes retail demand and inventory data to improve forecasting accuracy and monitor inventory health across categories, regions, and seasons.
+Objective:
+The objective of this project is to analyze retail transactional data to identify key business insights related to sales performance, customer purchasing behavior, product performance, and operational efficiency. The project aims to transform raw transactional data into an interactive Excel dashboard to support data-driven decision-making.
 
-## 🧹 Data Cleaning (Power Query)
-- Removed extra spaces using Trim & Clean
-- Standardized text columns using Upper
-- Fixed negative demand forecast values
-- Corrected data type mismatches
+Business Problem Statement
+The organization handles large volumes of customer transaction data across various regions, product categories, and customer segments. However, the data is stored in raw format and lacks structured analytical reporting, making it difficult for management to monitor sales trends, customer behavior, and operational performance.
+This project addresses this problem by cleaning, transforming, analyzing, and visualizing the data to provide actionable insights through an interactive dashboard.
 
-## 📈 Analysis
-- Built pivot tables to calculate:
-  - Total Units Sold
-  - Inventory Levels
-  - Forecast Error
-  - Demand Volatility
+Data Source Description:
+The dataset contains transactional-level retail data, including:
 
-## 📊 Dashboard Features
-- KPI Cards for key metrics
-- Inventory vs Demand comparison charts
-- Forecast error analysis by category
-- Seasonal demand trends
-- Interactive slicers for filtering
+Customer demographic information
 
-## 🛠 Tools Used
-- Microsoft Excel
-- Power Query
-- Pivot Tables
-- Excel Dashboard Design
+Product details
 
-## 🎯 Business Impact
-This dashboard helps identify:
-- Overstock and understock situations
-- Weak demand forecasting areas
-- Seasonal demand patterns
+Transaction amounts
 
-## 📷 Dashboard Preview
-(See screenshots folder)
+Payment and shipping methods
+
+Customer feedback and ratings
+
+Each row represents a unique customer transaction.
+
+Data Cleaning Process:
+
+
+The following data cleaning steps were performed using Power Query:
+
+Removed duplicate records based on Transaction ID
+
+Eliminated personally identifiable information (Name, Email, Phone, Address)
+
+Standardized text formatting
+
+Corrected data types
+
+Handled missing values
+
+Created derived columns (Age Group, Year-Month)
+
+Removed redundant columns
+
+
+Key Performance Indicators (KPIs)
+
+The dashboard includes the following KPIs:
+
+Total Revenue
+
+Total Orders
+
+Average Order Value
+
+Total Customers
+
+Revenue by Customer Segment
+
+Product Category Performance
+
+Order Completion Rate
+
+Customer Satisfaction Ratings
+
+Tools & Techniques Used:
+
+
+Microsoft Excel
+
+Power Query for data cleaning and transformation
+
+Pivot Tables for data analysis
+
+Charts for visualization
+
+Slicers for interactivity
