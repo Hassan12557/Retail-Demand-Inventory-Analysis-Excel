@@ -86,5 +86,3 @@ The dashboard provides interactive insights into:
 * Geographic sales distribution
 * Shipping and payment method usage
 * Customer satisfaction analysis
-
- 👉 **“Make this project portfolio-ready”** and we’ll take it to the next level.
